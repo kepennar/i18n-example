@@ -1,0 +1,50 @@
+{
+  "translation": {
+    "common": {
+      "app": {
+        "title": "Exemple d'internationalisation React"
+      },
+      "text": {
+        "noData": "Aucune donnée",
+        "notFound": "Introuvable",
+        "allValues": "Toutes",
+        "download": "Télécharger"
+      },
+      "user": {
+        "email": "Email",
+        "name": "Nom",
+        "role": "Role",
+        "activated": "Activé",
+        "deleted": "Supprimé",
+        "company": "Entreprise",
+        "resume": "CV"
+      }
+    },
+    "component": {
+      "userList": {
+        "label": {
+          "select": "Select",
+          "selected": "Selectionné"
+        },
+        "link": {
+          "details": "Détails"
+        }
+      }
+    },
+    "admin": {
+      "title": {
+        "users": "Utilisateurs",
+        "companies": "Entreprises",
+        "competencies": "Compétences",
+        "sessions": "Sessions",
+        "mediaLibrary": "Bibliothèque de médias"
+      },
+      "label": {
+        "nbCompanies": "Nombre d'entreprises",
+        "nbUsers": " Nombre d'utilisateurs",
+        "nbCompetencies": "Nombre de compétences",
+        "nbPendingSessions": "Nombre de sessions en cours"
+      }
+    }
+  }
+}

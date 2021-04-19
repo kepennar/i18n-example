@@ -1,0 +1,19 @@
+{
+  "name": "auto-translate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin Pennarun",
+  "license": "MIT",
+  "scripts": {
+    "translate:cli": "node ./src/cli.js"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3",
+    "dotenv": "^8.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0"
+  }
+}
